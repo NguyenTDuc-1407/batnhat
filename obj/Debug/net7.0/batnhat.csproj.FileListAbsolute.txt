@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\batnhat\bin\Debug\net7.0\batnhat.exe
+C:\Users\ASUS\Desktop\batnhat\bin\Debug\net7.0\batnhat.deps.json
+C:\Users\ASUS\Desktop\batnhat\bin\Debug\net7.0\batnhat.runtimeconfig.json
+C:\Users\ASUS\Desktop\batnhat\bin\Debug\net7.0\batnhat.dll
+C:\Users\ASUS\Desktop\batnhat\bin\Debug\net7.0\batnhat.pdb
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.dll
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\refint\batnhat.dll
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.pdb
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\batnhat.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\batnhat\obj\Debug\net7.0\ref\batnhat.dll
